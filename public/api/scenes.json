@@ -1,0 +1,10 @@
+[
+  { "id": 1, "scene": "Retrato de pessoa", "adjustment": "Ativa modo retrato e ajusta desfoque", "result": "Foto com aparência profissional", "tag": "RETRATO", "confidence": 96 },
+  { "id": 2, "scene": "Grupo de pessoas", "adjustment": "Ativa lente ultrawide automaticamente", "result": "Todos cabem na foto", "tag": "GRUPO", "confidence": 92 },
+  { "id": 3, "scene": "Comida", "adjustment": "Ativa modo comida e melhora cores", "result": "Pratos mais atraentes", "tag": "COMIDA", "confidence": 90 },
+  { "id": 4, "scene": "Documento", "adjustment": "Ativa modo scanner e corrige perspectiva", "result": "Documento legível", "tag": "DOCUMENTO", "confidence": 98 },
+  { "id": 5, "scene": "Show / palco", "adjustment": "Ativa modo noturno + estabilização", "result": "Fotos melhores em shows", "tag": "SHOW", "confidence": 88 },
+  { "id": 6, "scene": "Animal ou criança", "adjustment": "Ativa modo ação (obturador rápido)", "result": "Menos fotos borradas", "tag": "AÇÃO", "confidence": 85 },
+  { "id": 7, "scene": "Paisagem", "adjustment": "Ativa HDR + ultrawide", "result": "Mais detalhes no cenário", "tag": "PAISAGEM", "confidence": 94 },
+  { "id": 8, "scene": "Objeto pequeno", "adjustment": "Ativa modo macro", "result": "Foco preciso em detalhes", "tag": "MACRO", "confidence": 89 }
+]
